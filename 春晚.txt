@@ -1,0 +1,3 @@
+春晚,#genre#
+CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+移动8K-2-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
